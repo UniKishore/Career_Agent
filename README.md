@@ -24,4 +24,4 @@ This is an AI-powered chat interface that allows users to interact with Jaya Kis
 4. Run the app: `python app.py`
 
 ## Deployment
-This app is deployed on Hugging Face Spaces. You can access it at: [Your Space URL will appear here after deployment] 
+This app is deployed on Hugging Face Spaces. You can access it at: (https://jayakishore15-kishores-agent.hf.space/)
